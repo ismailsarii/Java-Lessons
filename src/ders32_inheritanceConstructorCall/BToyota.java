@@ -10,7 +10,7 @@ public class BToyota extends Araba{
 
     BToyota(String pt2){
         super("Mehmet");
-        System.out.println();
+        System.out.println("String Parametreli Toyota Constructor");
 
 
     }
