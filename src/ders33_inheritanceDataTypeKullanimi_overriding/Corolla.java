@@ -74,8 +74,8 @@ public class Corolla extends BToyota{
         // System.out.println(toyota2.yil); // CTE
 
         Araba araba=new Araba();
-        System.out.println(araba.motor);
-        System.out.println(araba.plaka);
-        System.out.println(araba.yakit);
+        System.out.println(araba.motor); // Araba
+        System.out.println(araba.plaka); // Araba
+        System.out.println(araba.yakit); // Araba
     }
 }
