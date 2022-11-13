@@ -18,7 +18,7 @@ public class C01_PassByValue {
 
     }
     /*
-    Kodlarimizin anlasi;ir olmasi icin main method'dan diger method'lara
+    Kodlarimizin anlasilir olmasi icin main method'dan diger method'lara
     parametre olarak gonderdigimiz variable'lar icin ayni isimli variable
     olusturmayi TERCIH EDERIZ
     Java method'lar arasinda gecis yaparken variable'i degil
